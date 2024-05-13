@@ -18,7 +18,8 @@ In this project we are going to implement AMS and its following key modules as s
 -   Flight Management System
 -   Tickets
 
-![](media/7669fbd1172efa3f3507af7859c6e685.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/1852e6e8-100c-4ada-a11c-4b8ee8a33659)
+
 
 *Figure 1: Airport Management System*
 
@@ -69,7 +70,7 @@ In this project we are going to implement AMS and its following key modules as s
     -   Plane management system
     -   Flight management system
 
-![](media/27edab187917a3d206c8131a7bf0e3cd.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/d46f8db2-5289-4979-ab9f-a0f3914d256a)
 
 **Step 2**: For the Passenger management system, the following functionalities need to be achieved in this gui pattern.
 
@@ -80,19 +81,19 @@ In this project we are going to implement AMS and its following key modules as s
 
 For example, to add the passenger details, we need to enter Name, Surname, passenger type, luggage count and date of birth
 
-![](media/ae85d382d08c1b1bba70d84d462e3803.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/8c3a2bb4-3ab2-4f00-814b-372c4e2e2ff7)
 
 To remove a particular user, we can remove the passenger by specifying the attribute and that particular passenger will be removed.
 
-![](media/98c57ee1b7cc5c91d9419c49189fae8f.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/3c0b7bb7-7a04-415c-a702-25945aeb1346)
 
 To update a user i-e to change the information of passenger.
 
-![](media/1565c02ed97393155cecca5328c1ac71.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/3d387fea-6529-46ca-8041-521d559c715d)
 
 If any invalid entry is entered it should pop a window error message (Exception error handling)
 
-![](media/4c4addfc3cb4d11e39a29bccdaae17ca.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/18792711-4d7f-480c-a23e-b3d280613462)
 
 Step 3: For the Plane management system, the following functionalities need to be achieved in this gui pattern.
 
@@ -105,29 +106,29 @@ Step 3: For the Plane management system, the following functionalities need to b
 
 For example, to add the plane, we need to enter its plane details
 
-![](media/2e7d370ed963d0f0e0800e82b6740c4d.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/9c21b212-f1d3-4c82-9631-30620f495f12)
 
 A particular plane details can be deleted as well
 
-![](media/443fa4348920b9d9cf40cfa9801efde5.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/dc841db4-ad8b-4781-bade-6a8b9a89c679)
 
 Similarly to add the hanger and runway we need to mention its airport id and we can remove the hanger and runway as well
 
-![](media/4b3f2d7f24f6c561d0f81bef3e7eb2c3.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/90b2f34c-2c0e-40dd-ae42-815fd3ed1978)
 
 We can reserve the hanger and runway for the particular plane that is added previously
 
-![](media/c1ed3387aa50de4fb04733bea5abfadb.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/12c5fad9-2091-48a1-abed-ccc20c617a16)
 
-![](media/d26c61ec2146b509d25072695417b5a1.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/98e159dc-a272-4e72-b54c-0bbd52d3b666)
 
 Similarly we can reset the hanger and runway if it is not being used by any plane
 
-![](media/292bc87d8921dd59b8cf5916975dadb5.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/aebd5b48-5814-4adf-bbc5-353f4a2472c7)
 
 For an invalid entries , error must be pop up as well
 
-![](media/b9f01d5554f22e0e41a98b7b3b74c05f.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/43380f6a-ee17-487f-b0bb-875a755e6f0e)
 
 Step 4: For the Flight management system, the following functionalities need to be achieved in this gui pattern.
 
@@ -136,24 +137,26 @@ Step 4: For the Flight management system, the following functionalities need to 
 -   User can be able to manage tickets by i-e buying a ticket for a particular passenger that is created earlier. Users can allocate a seat number as well.
 -   User can cancel a ticket for particular passenger as well.
 
-    ![](media/37bc53ae59b0dd1b6a4eae8e83c665fb.jpg)
+    ![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/8fda232b-3452-447d-9eb2-12ac3fe2b52e)
+
 
 For example, to add a flight, we need to enter its departure and landing location, departure and return date
 
-![](media/bac63d6d34a0d69b78472f501dc23594.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/d2608c47-b972-4515-8caa-7e865328f725)
 
 A flight can be removed as well by selecting a particular flight that is added earlier
 
-![](media/ecadf19cee027d814cce718757ab5c15.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/75ea83ad-8cc0-4c64-8f78-4691efd73b4a)
 
 Ticket can be purchased or cancelled for a particular passenger that is created earlier by mentioning his/her id , and seat number and seat number allocated to him. Ticket price will vary depending upon the nature of ticket that is booked at the time of booking
 
 For example VIP tickets can only be purchased by business class. Please add some discount ratio as well for different categories of class. So that business class ticket will be most expensive one, then economy class and least expensive ticket will be for family class
 
-![](media/c9cccf2a9c15fee5e6e51a48caf785ee.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/1d8ca319-50ad-40b9-9ceb-df4ae240d8ad)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/d4f4c1e9-a7eb-478a-933d-9ad4de415e06)
 
-![](media/e068934fc613ab6fccf80bfd012a1fa3.jpg)
 
 To handle an invalid entry, pop up message need to be displayed
 
-![](media/77732407525008803d347380a27df1a9.jpg)
+![image](https://github.com/OmerEmreBozkurt/Airport-Management-System/assets/94068773/fe49d3df-a571-4756-b1d1-48cb251d83a3)
+
